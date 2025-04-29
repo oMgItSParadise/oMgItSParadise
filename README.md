@@ -1,4 +1,4 @@
-[![MasterHead]([https://media1.giphy.com/media/YatrMUJa1N6P6/giphy.gif?cid=ecf05e477szfm9ne0eeipmkgm5pc3zfhp271icaipna418la&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZpNDIxa3l0Z2x4YWgweWR0OTZiMXUzY2tmN2Z2ampxYW5tYjN6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif))](https://github.com/oMgItSParadise)
+[![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZpNDIxa3l0Z2x4YWgweWR0OTZiMXUzY2tmN2Z2ampxYW5tYjN6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif)](https://github.com/oMgItSParadise)
 <h1 align="center">Hi 👋, I'm İsa</h1>
 <h3 align="center">A passionate full stack dev from Turkey.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47x0ahl69rj1lhx46j2plr2wju5c0iwcb0tc2lvprs&ep=v1_gifs_search&rid=giphy.gif&ct=g">
